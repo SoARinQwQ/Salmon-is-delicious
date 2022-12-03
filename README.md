@@ -1,5 +1,6 @@
 # Salmon-is-delicious
 SAISK Created for Gamejam.
+***I haven't learned programming systematically, just read about it in books and learned it online. Sorry if this causes any trouble.QwQ***
 
 ## 1.How to import scenes into unity?
 Download **MAZE1.0.unitypackage** directly and then drag it directly into unity.
